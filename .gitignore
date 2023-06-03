@@ -6,4 +6,5 @@ output/
 *.cpp
 *.asm
 *.obj
+*.json
 ascii_table
