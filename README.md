@@ -1,5 +1,5 @@
 # Brainfuck Projects c:
-A few lil things i wrote in "brainfuck" an esoteric and confusing programming language c:
+A few lil things i wrote in "brainfuck" an esoteric and confusing programming language c: <br />
 I plan on writing a lil compiler in C for brainfuck as well :3
 
 <br />
