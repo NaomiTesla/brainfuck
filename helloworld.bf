@@ -136,4 +136,13 @@ a simple program to uhhh print "hello world" umm (aaa)
     <-
 ]
 
->.<
+      # here we're outputting the final character "a" which finall outputs___ "Hello World! ~ Naomi Tesla" c:
+>.-<  # decrements cell 1 with a value of '97' so that it has simpler factors at '96' for the loop to increment 8*12 times or '96'
+      # this sets both cell 0 and cell 1 back to their original states of 0 before exiting c:
+      
+++++ ++++ ++++
+[
+    >---- ---- 
+    <-
+]    
+
