@@ -19,7 +19,7 @@ a simple program to uhhh print "hello world" umm (aaa)
 
 ++++ ++++ ++++ + # sets cell 0 to '13'
 
-[
+[                # the remainder of the code follows a simmilar pattern whcih means there's not tooo much need to further annotate until garbage collection c:
     >--- ---
     <-
 ]
